@@ -2937,20 +2937,15 @@ Now that your deployment is working, consider:
 
 ---
 
-## 👨‍💻 About the Author
-
-**Mohamud Osman**  
-*Founder of Dugsiiye*
 
 **Connect with me:**
 
-- 🌐 **Website**: [dugsiiye.com](https://dugsiiye.com)
-- 💻 **GitHub**: [@mchamoudadev](https://github.com/mchamoudadev)
-- 📺 **YouTube**: [@dugsiiye](https://youtube.com/@dugsiiye)
-- 💼 **LinkedIn**: [Mohamed Osman](https://linkedin.com/in/mchamoudadev)
-- 🐦 **X (Twitter)**: [@mchamoudadev](https://x.com/dugsiiye)
 
-**Visit [dugsiiye.com](https://dugsiiye.com) for more tutorials, projects, and full-stack software engineering content!**
+- 🌐 **Website**: [QaraamiGen_Ai](QaraamiGen.Ai)
+- 💻 **GitHub**: [@KhalidIbrahem](https://github.com/KhalidIbrahem)
+- 💼 **LinkedIn**: [Khalid Ibrahim](https://www.linkedin.com/in/khalidibrahimabdi1/)
+- 🐦 **X (Twitter)**: [@khalid_ibrahm](https://x.com/khalid_ibrahm)
+
 
 ---
 
