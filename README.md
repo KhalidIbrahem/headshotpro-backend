@@ -1,4 +1,4 @@
-# 🚀 Complete Deployment Guide for Full Stack Dugsiiye Mentorship
+# 🚀 Complete Deployment Guide
 
 Welcome! 👋 This friendly guide will walk you through deploying a fullstack application (Next.js + Bun backend) using **GitHub Actions** for automatic deployment. 
 
